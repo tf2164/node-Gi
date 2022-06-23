@@ -1,0 +1,74 @@
+ {"employees" : [
+    {
+    "id":1,
+    "name": "Tyra Fair",
+    "department": "Management",
+    "salary": "300,000"
+
+    },
+    {
+    "id":2,
+    "name": "Fenneko",
+    "department": "HR",
+    "salary": "75,000"
+    
+        },
+        {
+    "id":3,
+    "name": "Retsuko",
+    "department": "Accounting",
+    "salary":"150,000"
+        
+        },
+        {
+    "id":4,
+    "name": "Anai",
+    "department": "Social Media Manager",
+    "salary": "75,000"
+            
+        },
+        {
+    "id":5,
+    "name": "Tadano",
+    "department": "Tech",
+    "salary": "150,000"
+                    
+         },
+
+        {
+    "id":6,
+    "name": "Ookami",
+    "department": "Cybersecurity",
+    "salary": "125,000"
+                
+        },
+        {
+    "id":7,
+    "name": "Kabae",
+    "department": "Recruiting",
+    "salary": "85,000"
+                    
+        },
+        {
+     "id":8,
+    "name": "Hyodo",
+    "department": "Management",
+    "salary": "100,000"
+                        
+        },
+        {
+    "id":9,
+    "name": "Manaka",
+    "department": "HR",
+    "salary": "75,000"
+                            
+        },
+        {
+    "id":10,
+    "name": "Jeras Rutherford",
+    "department": "IT",
+    "salary": "100,000"
+                                    
+        }
+                
+    ]}
